@@ -1,0 +1,26 @@
+body {
+  background-color: antiquewhite;
+}
+
+.contenter h1 {
+  font-size: 40px;
+}
+
+.contenter p {
+  font-size: 24px;
+
+  /* Khoảng cách giữa các dòng */
+  line-height: 1.2;
+}
+
+.contenter {
+  margin: 0 auto;
+  width: 700px;
+  background-color: yellow;
+  text-align: center;
+}
+
+.contenter img{
+    /* Chỉnh độ rộng tối đa của ảnh */
+    max-width: 190px;
+}
